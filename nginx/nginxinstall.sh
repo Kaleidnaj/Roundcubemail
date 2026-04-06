@@ -1,7 +1,6 @@
-```
+```bash
 sudo apt get update
 apt install nginx
-```bash
 #Create template directory in nginx folder
 mkdir /etc/nginx/templates
 ```
